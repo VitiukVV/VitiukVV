@@ -6,7 +6,7 @@
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-VitiukVolodymyr-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitiuk-volodymyr/)  
   [![Telegram Badge](https://img.shields.io/badge/Telegram-VitiukVV-blue?logo=telegram&logoColor=white)](https://t.me/VitiukVV)  
   [![Email Badge](https://img.shields.io/badge/Email-v.v.endeavour%40gmail.com-red?logo=gmail&logoColor=white)](mailto:v.v.endeavour@gmail.com)  
-- ⚡ Fun fact: On a **1978-day Duolingo streak** (yes, that’s over 5 years without missing a single day!) as of 11.08.2025.  
+- ⚡ Fun fact: On a **2015-day Duolingo streak** (yes, that’s over 5 years without missing a single day!) as of 16.09.2025.  
   ![Duolingo Badge](https://img.shields.io/badge/Duolingo-1978%20days-brightgreen?logo=duolingo&logoColor=white)  
 
 
